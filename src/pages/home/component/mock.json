@@ -1,0 +1,14 @@
+{
+  "psc":[
+    "pcs1","pcs2"
+  ],
+  "bms":[
+    "bms1","bms2"
+  ],
+  "deviceMap":{
+    "pcs1":[{"label":"电压","value":"voltage"},{"label":"电流","value":"current"},{"label":"功率","value":"power"}],
+    "pcs2":[{"label":"电压","value":"voltage"},{"label":"电流","value":"current"},{"label":"功率","value":"power"}],
+    "bms1":[{"label":"电池电压","value":"voltage"},{"label":"在线cell电流","value":"current"},{"label":"在线cell功率","value":"power"}],
+    "bms2":[{"label":"电压","value":"voltage"},{"label":"电流","value":"current"},{"label":"功率","value":"power"}]
+  }
+}
